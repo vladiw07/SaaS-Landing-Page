@@ -1,9 +1,22 @@
+import CTAWithFooter from "./components/CTAWithFooter";
+import FeaturesSummary from "./components/FeaturesSummary";
+import Hero from "./components/Hero";
+import Navbar from "./components/Navbar";
+
 function App() {
   return (
-    <div className="App">
-      <div className="bg-blue-500 text-white p-4 rounded-lg">
-  Hello Tailwind!
-</div>
+    <div className="App font-sans">
+      
+
+
+    <Navbar />
+    <Hero />
+    <FeaturesSummary />
+    <CTAWithFooter />
+
+
+
+
     </div>
   );
 }
