@@ -13,12 +13,12 @@ Check it out here:
 
 ### 🖥 Desktop View
 
-![Taskly Desktop] ![Screenshot_25](https://github.com/user-attachments/assets/d1694d08-f3b8-48e8-9b09-9fbcb1a1a1b3)
+![Screenshot_25](https://github.com/user-attachments/assets/d1694d08-f3b8-48e8-9b09-9fbcb1a1a1b3)
 
 
 ### 📱 Mobile View
 
-![Taskly Mobile] ![saa-s-landing-page-virid vercel app_(Samsung Galaxy S20 Ultra)](https://github.com/user-attachments/assets/be91b7eb-2493-40b0-9ef4-66d691d30062)
+![saa-s-landing-page-virid vercel app_(Samsung Galaxy S20 Ultra)](https://github.com/user-attachments/assets/be91b7eb-2493-40b0-9ef4-66d691d30062)
 
 
 ---
