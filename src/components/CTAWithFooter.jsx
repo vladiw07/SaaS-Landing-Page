@@ -31,7 +31,7 @@ function CTAWithFooter() {
       </div>
 
       {/* Copyright */}
-      <p className="text-xs text-gray-500">&copy; 2024 Taskly</p>
+      <p className="text-xs text-gray-500">&copy; 2025 Taskly</p>
     </section>
   );
 }
