@@ -17,7 +17,7 @@ function CTAWithFooter() {
         />
         <button
           type="submit"
-          className="bg-black text-white px-6 py-3 rounded-md font-medium hover:bg-gray-900 transition-all"
+          className="bg-black text-white px-6 py-3 rounded-md font-medium hover:bg-gray-900 transition-all duration-300 ease-in-out transform hover:scale-105"
         >
           Join Waitlist
         </button>
