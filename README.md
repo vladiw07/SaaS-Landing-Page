@@ -5,7 +5,7 @@ A modern, responsive React + Tailwind CSS landing page prototype for Taskly — 
 ## 🔗 Live Demo
 
 Check it out here:  
-https://saa-s-landing-page-virid.vercel.app/
+[https://saa-s-landing-page-virid.vercel.app/](url)
 
 ---
 
