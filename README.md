@@ -13,7 +13,7 @@ Check it out here:
 
 ### 🖥 Desktop View
 
-![Screenshot_25] ![saa-s-landing-page-virid vercel app_ (1)](https://github.com/user-attachments/assets/5b3556c9-af45-4b55-86e7-efc29a27dcb8)
+![saa-s-landing-page-virid vercel app_ (1)](https://github.com/user-attachments/assets/5b3556c9-af45-4b55-86e7-efc29a27dcb8)
 
 
 
